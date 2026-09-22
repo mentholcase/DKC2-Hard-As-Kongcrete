@@ -1,0 +1,32 @@
+1.0.0 01/29/12
+- originally uploaded to DKC-Atlas
+
+1.0.1 01/29/12
+- fixed level start coordinates in Arctic Abyss (credit Cody/ArichDKC)
+
+1.0.2 01/29/12
+- fixed level start coordinates in Haunted Hall
+
+1.0.3 01/30/12
+- modified a camera border in Arctic Abyss. also, in Jungle Jinx, the first pair of Zingers could simply be walked under
+
+1.0.4 02/01/12
+- minor revision to Rambi Rumble
+
+2.0 02/03/12
+-minor revisions to Lava Lagoon, Glimmer's Galleon, Rattle Battle, Bramble Blast, Target Terror, Bramble Blast, Mudhole Marsh, Ghostly Grove, Haunted Hall, Gusty Glade, Web Woods, Windy Well, Toxic Tower, Screech's Sprint, Black Ice Battle, and Animal Antics
+
+2.0.1 02/08/12
+- addressed an issue in Caliginous Cargo (Lockjaw's Locker) (credit ansujitsu)
+
+3.0.0 09/05/22
+- major revisions throughout
+
+3.0.1 09/06/22
+- addressed an issue in Kleever's Kiln
+
+3.0.2 09/17/22
+- addressed an issue in Screech's Sprint
+
+3.0.2.1 9/22/26
+- original host (DKC-Atlas) discovered to be down. revised text files (readme & DK Coin Hints), created update log text file, uploaded project to GitHub, and posted to RomHacking.net
